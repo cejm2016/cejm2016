@@ -35,7 +35,7 @@ Me chamo Carlos Eduardo, tenho 27 anos e sou de São Paulo.
 <img align="left" alt="SPSS" title="SPSS" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg"/>
 <img align="left" alt="SSH" title="SSH" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"/>
 <img align="left" alt="UML" title="Unified Modeling Language" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
-<img align="left" alt="Unity" logoColor="black" color="black" title="Unity" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-line-wordmark.svg" />
+<img align="left" alt="Unity" logoColor="white" color="white" title="Unity" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-line-wordmark.svg" />
 <img align="left" alt="Vim" title="Vim" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"/>
 <img align="left" alt="XML" color="white" title="XML" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"/>
 <img align="left" alt="Trello" title="Trello" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
