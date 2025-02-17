@@ -42,6 +42,7 @@ Me chamo Carlos Eduardo, tenho 27 anos e sou de São Paulo.
 <img align="left" alt="VS Code" title="VS Code" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="PyCharm" title="PyCharm" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
 
+---
 
 ### 📊 Estatísticas
 
