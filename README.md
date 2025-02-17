@@ -33,7 +33,6 @@ Me chamo Carlos Eduardo, tenho 27 anos e sou de São Paulo.
 <img align="left" alt="Salesforce" title="Salesforce" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"/>
 <img align="left" alt="SASS" title="SASS" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 <img align="left" alt="SPSS" title="SPSS" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg"/>
-<img align="left" alt="Stack Overflow" title="Stack Overflow" width="25px"style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"/>
 <img align="left" alt="SSH" title="SSH" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"/>
 <img align="left" alt="UML" title="Unified Modeling Language" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"/>
 <img align="left" alt="Unity" title="Unity" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg"/>
@@ -41,12 +40,8 @@ Me chamo Carlos Eduardo, tenho 27 anos e sou de São Paulo.
 <img align="left" alt="XML" title="XML" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"/>
 <img align="left" alt="Trello" title="Trello" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 <img align="left" alt="VS Code" title="VS Code" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="PyCharm" title="PyCharm" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+<img align="left" alt="PyCharm" title="PyCharm" width="25px" style="padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
 
-
----
-
-##
 
 ### 📊 Estatísticas
 
