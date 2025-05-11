@@ -2,7 +2,7 @@
 
 **`Data Science`**
 
-Me chamo Carlos Eduardo, tenho 28 anos e sou de São Paulo. 
+Me chamo Carlos Eduardo, tenho 27 anos e sou de São Paulo. 
 
 ###
 
